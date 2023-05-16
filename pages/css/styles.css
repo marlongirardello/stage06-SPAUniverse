@@ -1,0 +1,25 @@
+a {
+  color: white;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  margin-left: 42px;
+  margin-top: 50px;
+}
+
+h1 {
+  font-size: 48px;
+  font-family: 'Roboto', sans-serif;
+  color: #E1E1E6;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+svg {
+  margin-left: 72px;
+  margin-top: 40px;
+}
+
